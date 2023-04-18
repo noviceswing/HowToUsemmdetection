@@ -10,9 +10,8 @@ mim install mmengine
 mim install "mmcv>=2.0.0"
 
 git clone https://github.com/open-mmlab/mmdetection.git
-cd mmdetection
 
-
+cd mmdetection(可有可无)
 
 **将 pycocotools_windows-2.0.0.2-cp38-cp38-win_amd64.whl 用 pip 安装至环境**
 
